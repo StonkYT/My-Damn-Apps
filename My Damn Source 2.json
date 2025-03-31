@@ -1,0 +1,80 @@
+{
+  "name": "My Damn Source",
+  "subtitle": "A source for all of my damn apps",
+  "description": "Welcome to my damn source! Here you'll find all of my damn apps.",
+  "iconURL": "https://i.imgur.com/H7pMNzT.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.3ox8xk1j6u.jvtyq1frqy"
+  ],
+  "apps": [
+    {
+      "name": "VN",
+      "bundleIdentifier": "com.3ox8xk1j6u.jvtyq1frqy",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/lVJAaSp.png",
+      "tintColor": "#ffffff",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/ipa/VlogNow-ipaomtk.com.ipa",
+          "size": 302199603,
+          "version": "1.92.3",
+          "buildVersion": "",
+          "date": "2025-03-31T13:20:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This allows you to record video.",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you.",
+          "NSAppleMusicUsageDescription": "This allows you to edit your video with your own music.",
+          "NSSpeechRecognitionUsageDescription": "This allows you to recognize your voice.",
+          "NSMicrophoneUsageDescription": "This allows you to record your voice.",
+          "NSLocationWhenInUseUsageDescription": "This allows you to share your location with your posts or videos.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Videos will be tagged with the location where they were taken.",
+          "NSPhotoLibraryUsageDescription": "This allows you to share videos from your library and save videos to your camera roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "VN",
+      "bundleIdentifier": "com.frontrow.vlog",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/MAbz6Xq.png",
+      "tintColor": "#ffffff",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This allows you to record video.",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you.",
+          "NSAppleMusicUsageDescription": "This allows you to edit your video with your own music.",
+          "NSSpeechRecognitionUsageDescription": "This allows you to recognize your voice.",
+          "NSMicrophoneUsageDescription": "This allows you to record your voice.",
+          "NSLocationWhenInUseUsageDescription": "This allows you to share your location with your posts or videos.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Videos will be tagged with the location where they were taken.",
+          "NSPhotoLibraryUsageDescription": "This allows you to share videos from your library and save videos to your camera roll."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
